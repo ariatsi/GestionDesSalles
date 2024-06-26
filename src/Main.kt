@@ -33,4 +33,5 @@ fun main() {
     println("La liste des salles après les mises à jour :")
     for (s in ss.findAll())
         println("\t$s")
+
 }
